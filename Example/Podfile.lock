@@ -1,0 +1,16 @@
+PODS:
+  - BBTestPod (0.1.0)
+
+DEPENDENCIES:
+  - BBTestPod (from `../`)
+
+EXTERNAL SOURCES:
+  BBTestPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BBTestPod: 91dbe17d7ae00dd2d8156aa96cac9533494c763e
+
+PODFILE CHECKSUM: cdb4226e89527863da0db4af89bdf70c40e0b5c5
+
+COCOAPODS: 1.1.1
