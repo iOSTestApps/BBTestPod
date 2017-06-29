@@ -1,7 +1,7 @@
 use_frameworks!
 
 target 'BBTestPod_Example' do
-  pod 'BBTestPod', :path => '../'
+  pod 'BBTestPod',  :git => 'https://github.com/fadfafda/adfasdf.git'
 
   target 'BBTestPod_Tests' do
     inherit! :search_paths
